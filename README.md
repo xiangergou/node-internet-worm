@@ -1,5 +1,6 @@
-## 写在前面   
-alsotang 委实是个有趣的人。 最近读到他的包教不包会的node教程，加上之前在慕课网的爬虫教程，闲来无事整理外加实践了下。
+## 写在前面   (superagent+cheerio+async+eventproxy 实现node社区微小爬虫)
+
+alsotang 委实是个有趣的人。 最近读到他的包教不包会的node课程，加上之前在慕课网的爬虫教程，闲来无事整理外加实践了下。
 
 ### 大体思路
 * [`superagent`](http://visionmedia.github.io/superagent/)      能够实现主动发起get/post/delete等请求，用以抓取网页
