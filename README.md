@@ -96,7 +96,7 @@ $.get("http://data1_source", function (data1) {
   });
 });
 ```    
-##重头戏之一 eventproxy  
+## 重头戏之一 eventproxy  
 我们尝试用eventproxy实现并发demo  
 ```javascript
 var ep = new eventproxy();
