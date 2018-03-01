@@ -1,0 +1,25 @@
+{
+  "name": "-node-internet-worm",
+  "version": "1.0.0",
+  "description": "基于node的微小爬虫小探",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangergou/-node-internet-worm.git"
+  },
+  "author": "xiangergou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangergou/-node-internet-worm/issues"
+  },
+  "homepage": "https://github.com/xiangergou/-node-internet-worm#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "express": "4.16.2",
+    "superagent": "3.8.2",
+    "supervisor": "0.12.0"
+  }
+}
